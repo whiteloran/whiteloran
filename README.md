@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![visitor badge](https://fern-lily-ladybug.glitch.me/badge?page_id=whiteloran.whiteloran)
